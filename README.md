@@ -24,16 +24,16 @@ A powerful, locally-hosted AI chat interface optimized for NVIDIA RTX 5070Ti and
 - 100GB+ Storage space for models
 
 ### Software
-- Ubuntu 22.04 LTS or Windows 11 with WSL2
+- Ubuntu 24.04 LTS or Windows 11 with WSL2
 - Python 3.10+
-- CUDA 11.8+
+- CUDA 12.8+
 - NVIDIA Driver 535+
 
 ## 🛠️ Installation
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/claude-chat.git
+git clone https://github.com/prashanthag/local-LLM.git
 cd claude-chat
 ```
 
